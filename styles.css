@@ -7,6 +7,7 @@
 .buttons{
   background-color: #F1F0E8;
   text-align: center;
+  color: #6096B4;
   
   display: flex;
   flex-wrap: wrap;
@@ -101,11 +102,13 @@
 h2{
   margin-top: 5%;
   text-align: center;
+  color: #6096B4;
 }
 hr {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
+  color: #6096B4;
 }
 .text-body-secondary {
   
@@ -129,11 +132,13 @@ h3{
   font-size: 20px;
   margin-bottom: 0;
   line-height: 0;
+  color: #6096B4;
 }
 .for-the-advert{
   margin-top: 1%;
   font-size: 5rem;
   margin-bottom: 2%;
+  color: #6096B4;
 }
 
 .logo{
@@ -168,6 +173,7 @@ h3{
   background-color: #d8d7cc;
   text-align: center;
   padding: 4% 10%;
+  margin-top: 4%;
 }
 p{
   margin-top: 20px;
@@ -175,7 +181,21 @@ p{
 
 .footer-icons{
   margin: 20px 10px;
+  color: #6096B4;
   
 }
 
+.fa-cart-shopping{
+  color: #6096B4;
+}
+.fa-right-long{
+  color: #6096B4;
+}
 
+.fa-user{
+  color: #6096B4;
+}
+
+.dropdown-item{
+  color: #6096B4;
+}
