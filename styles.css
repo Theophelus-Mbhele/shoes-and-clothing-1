@@ -34,6 +34,26 @@
   font-size: small;
 }
 @media screen and (max-width: 570px){
+  .sales-advert h3{
+    margin-top: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+   
+  }
+  .btn-group{
+    margin-bottom: 3%;
+    padding-bottom: 3%;
+   
+    
+  }
+  .for-the-advert{
+    margin-top: 0;
+    font-size: 1rem;
+  }
+  
+
+
+
   
 .navbar-brand{
   font-size: 2.2rem;
@@ -43,10 +63,11 @@
   height: 45px;
 }
 #shop{
-  margin-top: 5% ;
   margin-bottom: 5%;
   
 }
+
+
 
   
 }
